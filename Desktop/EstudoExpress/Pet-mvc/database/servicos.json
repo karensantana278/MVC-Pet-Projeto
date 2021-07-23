@@ -1,0 +1,28 @@
+{
+    "servicos": [
+        {
+            "id": "1",
+            "nome": "Banho e tosa",
+            "descricao": "Banho completo, tosa basica.",
+            "preco": "49"
+        },
+        {
+            "id": "2",
+            "nome": "Tosa completa",
+            "descricao": "Tosa Completa",
+            "preco": "49"
+        },
+        {
+            "id": "3",
+            "nome": "Banho",
+            "descricao": " Apenas Banho",
+            "preco": "25"
+        },
+        {
+            "id": "4",
+            "nome": "Consulta",
+            "descricao": "Primeira consulta",
+            "preco": "100"
+        }
+    ]
+}
